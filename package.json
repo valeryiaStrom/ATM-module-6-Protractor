@@ -1,0 +1,22 @@
+{
+  "name": "atm-module-6-protractor",
+  "version": "1.0.0",
+  "description": "testing project on Protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeryiaStrom/ATM-module-6-Protractor.git"
+  },
+  "author": "Valeryia Strom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valeryiaStrom/ATM-module-6-Protractor/issues"
+  },
+  "homepage": "https://github.com/valeryiaStrom/ATM-module-6-Protractor#readme",
+  "devDependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
